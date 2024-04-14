@@ -1,6 +1,10 @@
 
 # Netflix Clone - Watch TV Shows & movies
 
+
+https://github.com/affancoder/NetflixUI-Clone/assets/113276865/b3c89895-a599-409f-b580-24bfe5e65d88
+
+
 Project Summary:
 
 Title: Netflix - Watch TV Shows & movies
